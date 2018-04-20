@@ -12,5 +12,5 @@
 2. Lab 2 - Building a serverless application using Azure Functions and Azure Logic Apps
 
 
-3. Lab 3 - 
+* Lab 3 - 
 [Azure Function HOL](https://github.com/MSRConnections/Azure-training-course/blob/master/Content/Functions/Azure%20Functions%20HOL%20(C%23).md0

@@ -18,7 +18,7 @@
 [Azure Function HOL](https://github.com/MSRConnections/Azure-training-course/blob/master/Content/Functions/Azure%20Functions%20HOL%20(C%23).md0
 
 * In this hands-on lab, you will learn how to:
- * Create an Azure Function App
- * Write an Azure Function that uses a blob trigger
- * Add application settings to an Azure Function App
- * Use Microsoft Cognitive Services to analyze images and store the results in blob metadata
+ a. Create an Azure Function App
+ b. Write an Azure Function that uses a blob trigger
+ c. Add application settings to an Azure Function App
+ d. Use Microsoft Cognitive Services to analyze images and store the results in blob metadata

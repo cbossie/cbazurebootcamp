@@ -9,7 +9,7 @@
   * Select "Compute"
 
 1. Lab 1 - "Develop and debug a serverless application locally using Azure Functions and Visual Studio" (30 minutes)
-2. Lab 2 - Building a serverless application using Azure Functions and Azure Logic Apps
+2. Lab 2 - Building a serverless application using Azure Functions and Azure Logic Apps (30 minutes)
 
 
 * Lab 3 - 
